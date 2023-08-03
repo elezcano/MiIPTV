@@ -6,5 +6,5 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w317298204.m3u8
 
-#EXTINF:-3 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIMTV
-https://live.limplay.ml/limtv.m3u8
+#EXTINF:-3 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png", LIM TV * | PY
+https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
