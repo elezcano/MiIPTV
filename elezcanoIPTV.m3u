@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zp9q9kl4-720.jpg" group-title="NACIONALES", ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w317298204.m3u8
 
-#EXTINF:-3 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png", LIM TV * | PY
-https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
+#EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
